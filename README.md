@@ -1,4 +1,4 @@
-This repository contains two basic tutorials for designing a kinematic controller for the autonomous vehicles. 
+This repository contains two basic tutorials for designing a kinematic controller for autonomous vehicles. 
 
 For the equations and citation please refer to:
 
