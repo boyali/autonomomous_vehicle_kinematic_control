@@ -8,4 +8,9 @@ For the equations and citation please refer to:
 
 * [A tutorial on autonomous vehicle steering controller design, simulation and implementation](https://arxiv.org/pdf/1803.03758.pdf)
 
- 
+         @article{boyali2018tutorial, <br>
+          title={A tutorial on autonomous vehicle steering controller design, simulation and implementation},<br>
+          author={Boyali, Ali and Mita, Seichi and John, Vijay},<br>
+          journal={arXiv preprint arXiv:1803.03758},<br>
+          year={2018}<br>
+        }
